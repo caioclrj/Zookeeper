@@ -1,0 +1,27 @@
+# Project exclude paths
+/.gradle/
+/Topics/Boolean and logical operations/Knights, merchants, and robbers/out/
+/Topics/Boolean and logical operations/Knights, merchants, and robbers/out/production/classes/
+/Topics/Characters/A capital letter or a digit/out/
+/Topics/Characters/A capital letter or a digit/out/production/classes/
+/Topics/If expression/Boxes/out/
+/Topics/If expression/Boxes/out/production/classes/
+/Topics/If expression/Knights/out/
+/Topics/If expression/Knights/out/production/classes/
+/Topics/Integers in action/Reversing a number/out/
+/Topics/Integers in action/Reversing a number/out/production/classes/
+/Topics/Integers in action/Time format/out/
+/Topics/Integers in action/Time format/out/production/classes/
+/Topics/Relational operators/Groundhogs at the party/out/
+/Topics/Relational operators/Groundhogs at the party/out/production/classes/
+/Topics/Standard output/Print a triangle/out/
+/Topics/Standard output/Print a triangle/out/production/classes/
+/Topics/Standard output/Print code/out/
+/Topics/Standard output/Print code/out/production/classes/
+/Topics/While loops/Collatz conjecture/out/
+/Topics/While loops/Collatz conjecture/out/production/classes/
+/Topics/While loops/The length of the sequence/out/
+/Topics/While loops/The length of the sequence/out/production/classes/
+/Topics/While loops/The sequence 1 2 2 3 3 3/out/
+/Topics/While loops/The sequence 1 2 2 3 3 3/out/production/classes/
+/Zookeeper/task/build/
